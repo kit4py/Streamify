@@ -1,4 +1,5 @@
-# Streamify
+<h1 align="left"><b>Streamify  </b><img src="https://user-images.githubusercontent.com/105520646/233374277-2248f3d0-f508-4083-a421-b670749529a2.gif" width="80"></h1>
+
 Simple tool which plays spotify songs and creates accounts 
 
 This Tool needs to be modified for presonal testing. You will need your own chromedriver, Google folder with the correct path to store accounts etc. Contact me if you need any help. (I'm working on a simpler/userfriendly version) Telegram: @kit4py; Diskord: kit4py#5627
