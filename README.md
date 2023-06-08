@@ -3,7 +3,7 @@
 Simple tool which plays spotify songs and creates accounts 
 
 This Tool needs to be modified for presonal testing. You will need your own chromedriver, Google folder with the correct path to store accounts etc. Not for beginners.
-* the version was tested and works good on mac 
+* this is only an example and needs modification to work for current versions. You can use my project as start for your own. Don't spam me with questions etc i dont have enough time    
 
 # Installation
 ```
