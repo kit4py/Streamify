@@ -1,6 +1,6 @@
 <h1 align="left"><b>Streamify  </b><img src="https://user-images.githubusercontent.com/105520646/233374277-2248f3d0-f508-4083-a421-b670749529a2.gif" width="80"></h1>
 
-Simple tool which plays spotify songs and creates accounts 
+Simple tool which plays spotify songs and creates accounts (the xpathes might be not up to date, not working on this project anymore)
 
 This Tool needs to be modified for presonal testing. You will need your own chromedriver, Google folder with the correct path to store accounts etc. Not for beginners.
 * this is only an example and needs modification to work for current versions. You can use my project as start for your own. Don't spam me with questions etc i dont have enough time    
