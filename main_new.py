@@ -155,7 +155,7 @@ END_COLOR = BCOLORS.ENDC
 
 
 if __name__ == '__main__':
-    os.system('clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
     logo()
     # time.sleep(1000)
     func_del_users()
