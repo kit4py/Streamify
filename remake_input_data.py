@@ -15,7 +15,7 @@ def input_data():
         # time.sleep(0.5)
         subprocess.call(('open', filepath))
     elif platform.system() == 'Windows':  # Windows
-        os.startfile(filepath)
+        filepath = os.path.join(os.path.dirname(__file__), 'resources', 'links.txt')
         # os.startfile(file)
 
     else:  # linux
